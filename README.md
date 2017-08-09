@@ -1,4 +1,6 @@
-![enter image description here](https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png)
+<p align="center">
+  <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png">
+</p>
 
 Demonstrating-Python-Programming-towards-Data-Analysis
 
